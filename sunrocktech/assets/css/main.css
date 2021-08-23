@@ -3003,7 +3003,7 @@
 	@media screen and (max-width: 1280px) {
 
 		body {
-			padding-top: 6rem;
+			padding-top: 0rem;
 			background-attachment: scroll;
 			background-size: auto;
 			background-position: top;
