@@ -2928,7 +2928,7 @@
 
 	body {
 		background-color: #1e1f23;
-		padding-top: 8rem;
+		padding-top: 0rem;
 	}
 
 		body.is-loading:after {
