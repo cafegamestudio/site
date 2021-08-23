@@ -3027,7 +3027,7 @@
 
 	#main > .inner {
 		margin: 0 auto;
-		width: 100rem;
+		width: 80rem;
 		max-width: 100%;
 		margin-bottom: 2rem;
 		background: rgba(255, 255, 255, 0.95);
@@ -3182,7 +3182,7 @@
 	}
 
 		#footer a {
-			color: rgba(255, 255, 255, 0.75);
+			color:#B320C1;
 		}
 
 			#footer a:hover {
